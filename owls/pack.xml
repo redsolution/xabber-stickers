@@ -1,0 +1,444 @@
+<sticker-pack name="Owls" version="1">
+    <archive name="pack.zip" />
+    <description>Cute owls</description>
+    <author>
+        <name>Andrey Nasayev</name>
+        <company>redsolution OÜ</company>
+        <email>andrey.nasayev@redsolution.com</email>
+        <jid>andrey.nasayev@redsolution.com</jid>
+    </author>
+    <cover>
+        <file id="1">
+            <media-type>image/webp</media-type>
+            <name>cover.webp</name>
+            <height>512</height>
+            <width>512</width>
+            <size>61150</size>
+        </file>
+    </cover>
+    <license>CC0</license>
+    <stickers>
+        <sticker name="angry owl">
+            <file id="0">
+                <media-type>image/webp</media-type>
+                <name>angry.webp</name>
+                <height>512</height>
+                <width>512</width>
+                <size>29760</size>
+            </file>
+            <emojis>
+                <emoji>😠</emoji>
+            </emojis>
+            <description>Angry Owl</description>
+        </sticker>
+        <sticker name="angry owl with horns">
+            <file id="1">
+                <media-type>image/webp</media-type>
+                <name>angry.webp</name>
+                <height>512</height>
+                <width>512</width>
+                <size>55512</size>
+            </file>
+            <emojis>
+                <emoji>👿</emoji>
+            </emojis>
+            <description>Angry Owl with horns</description>
+        </sticker>
+        <sticker name="bandaged owl">
+            <file id="2">
+                <media-type>image/webp</media-type>
+                <name>bandage.webp</name>
+                <height>512</height>
+                <width>512</width>
+                <size>35480</size>
+            </file>
+            <emojis>
+                <emoji>🤕</emoji>
+            </emojis>
+            <description>Owl With Head-Bandage</description>
+        </sticker>
+        <sticker name="coffee">
+            <file id="3">
+                <media-type>image/webp</media-type>
+                <name>coffee.webp</name>
+                <height>512</height>
+                <width>512</width>
+                <size>28396</size>
+            </file>
+            <emojis>
+                <emoji>☕</emoji>
+            </emojis>
+            <description>Owl with a cup of coffee</description>
+        </sticker>
+        <sticker name="crying">
+            <file id="4">
+                <media-type>image/webp</media-type>
+                <name>crying.webp</name>
+                <height>512</height>
+                <width>512</width>
+                <size>30498</size>
+            </file>
+            <emojis>
+                <emoji>😢</emoji>
+            </emojis>
+            <description>Crying owl</description>
+        </sticker>
+        <sticker name="dizzy">
+            <file id="5">
+                <media-type>image/webp</media-type>
+                <name>dizzy.webp</name>
+                <height>512</height>
+                <width>512</width>
+                <size>29566</size>
+            </file>
+            <emojis>
+                <emoji>😵</emoji>
+            </emojis>
+            <description>Dizzy Owl</description>
+        </sticker>
+        <sticker name="eyes heart">
+            <file id="6">
+                <media-type>image/webp</media-type>
+                <name>eyes-heart.webp</name>
+                <height>512</height>
+                <width>512</width>
+                <size>90476</size>
+            </file>
+            <emojis>
+                <emoji>😍</emoji>
+            </emojis>
+            <description>Owl With Heart-Eyes</description>
+        </sticker>
+        <sticker name="eyes rolling">
+            <file id="7">
+                <media-type>image/webp</media-type>
+                <name>eyes-rolling.webp</name>
+                <height>512</height>
+                <width>512</width>
+                <size>33440</size>
+            </file>
+            <emojis>
+                <emoji>🙄</emoji>
+            </emojis>
+            <description>Owl With Rolling Eyes</description>
+        </sticker>
+        <sticker name="facepalm">
+            <file id="8">
+                <media-type>image/webp</media-type>
+                <name>facepalm.webp</name>
+                <height>512</height>
+                <width>512</width>
+                <size>30680</size>
+            </file>
+            <emojis>
+                <emoji>🤦</emoji>
+            </emojis>
+            <description>Facepalm</description>
+        </sticker>
+        <sticker name="grinning">
+            <file id="9">
+                <media-type>image/webp</media-type>
+                <name>grinning.webp</name>
+                <height>512</height>
+                <width>512</width>
+                <size>28924</size>
+            </file>
+            <emojis>
+                <emoji>😀</emoji>
+                <emoji>😃</emoji>
+                <emoji>😄</emoji>
+            </emojis>
+            <description>Grinning Face</description>
+        </sticker>
+        <sticker name="halo">
+            <file id="10">
+                <media-type>image/webp</media-type>
+                <name>halo.webp</name>
+                <height>512</height>
+                <width>512</width>
+                <size>32756</size>
+            </file>
+            <emojis>
+                <emoji>😇</emoji>
+            </emojis>
+            <description>Smiling Face With Halo</description>
+        </sticker>
+        <sticker name="horns sign">
+            <file id="11">
+                <media-type>image/webp</media-type>
+                <name>horns-sign.webp</name>
+                <height>512</height>
+                <width>512</width>
+                <size>49784</size>
+            </file>
+            <emojis>
+                <emoji>🤘</emoji>
+            </emojis>
+            <description>Horn Sign</description>
+        </sticker>
+        <sticker name="loudly crying">
+            <file id="12">
+                <media-type>image/webp</media-type>
+                <name>loudly-crying.webp</name>
+                <height>512</height>
+                <width>512</width>
+                <size>44768</size>
+            </file>
+            <emojis>
+                <emoji>😭</emoji>
+                <emoji>😊</emoji>
+                <emoji>😁</emoji>
+            </emojis>
+            <description>Loudly Crying Face</description>
+        </sticker>
+        <sticker name="money mouth">
+            <file id="13">
+                <media-type>image/webp</media-type>
+                <name>money-mouth.webp</name>
+                <height>512</height>
+                <width>512</width>
+                <size>73348</size>
+            </file>
+            <emojis>
+                <emoji>🤑</emoji>
+            </emojis>
+            <description>Money Mouth</description>
+        </sticker>
+        <sticker name="open mouth">
+            <file id="14">
+                <media-type>image/webp</media-type>
+                <name>mouth.webp</name>
+                <height>512</height>
+                <width>512</width>
+                <size>29628</size>
+            </file>
+            <emojis>
+                <emoji>😮</emoji>
+            </emojis>
+            <description>Face With Open Mouth</description>
+        </sticker>
+        <sticker name="nerd face">
+            <file id="15">
+                <media-type>image/webp</media-type>
+                <name>nerd.webp</name>
+                <height>512</height>
+                <width>512</width>
+                <size>37702</size>
+            </file>
+            <emojis>
+                <emoji>🤓</emoji>
+            </emojis>
+            <description>Nerd Face</description>
+        </sticker>
+        <sticker name="OK">
+            <file id="16">
+                <media-type>image/webp</media-type>
+                <name>ok.webp</name>
+                <height>512</height>
+                <width>512</width>
+                <size>31266</size>
+            </file>
+            <emojis>
+              <emoji>👌</emoji>
+            </emojis>
+            <description>OK</description>
+        </sticker>
+        <sticker name="party">
+            <file id="17">
+                <media-type>image/webp</media-type>
+                <name>party.webp</name>
+                <height>512</height>
+                <width>512</width>
+                <size>51820</size>
+            </file>
+            <emojis>
+                <emoji>🎉</emoji>
+            </emojis>
+            <description>Party</description>
+        </sticker>
+        <sticker name="pensive">
+            <file id="18">
+                <media-type>image/webp</media-type>
+                <name>pensive.webp</name>
+                <height>512</height>
+                <width>512</width>
+                <size>28624</size>
+            </file>
+            <emojis>
+                <emoji>😔</emoji>
+            </emojis>
+            <description>Pensive Face</description>
+        </sticker>
+        <sticker name="poo">
+            <file id="19">
+                <media-type>image/webp</media-type>
+                <name>poo.webp</name>
+                <height>512</height>
+                <width>512</width>
+                <size>36158</size>
+            </file>
+            <emojis>
+                <emoji>💩</emoji>
+            </emojis>
+            <description>Poo</description>
+        </sticker>
+        <sticker name="pouting">
+            <file id="20">
+                <media-type>image/webp</media-type>
+                <name>pouting.webp</name>
+                <height>512</height>
+                <width>512</width>
+                <size>46806</size>
+            </file>
+            <emojis>
+                <emoji>😡</emoji>
+                <emoji>😠</emoji>
+            </emojis>
+            <description>Pouting Face</description>
+        </sticker>
+        <sticker name="sleeping face">
+            <file id="21">
+                <media-type>image/webp</media-type>
+                <name>sleeping.webp</name>
+                <height>512</height>
+                <width>512</width>
+                <size>41488</size>
+            </file>
+            <emojis>
+                <emoji>😴</emoji>
+            </emojis>
+            <description>Sleeping Face</description>
+        </sticker>
+        <sticker name="smiling face">
+            <file id="22">
+                <media-type>image/webp</media-type>
+                <name>smiling.webp</name>
+                <height>512</height>
+                <width>512</width>
+                <size>32358</size>
+            </file>
+            <emojis>
+                <emoji>😊</emoji>
+            </emojis>
+            <description>Smiling Face With Smiling Eyes</description>
+        </sticker>
+        <sticker name="sunglasses face">
+            <file id="23">
+                <media-type>image/webp</media-type>
+                <name>sunglass.webp</name>
+                <height>512</height>
+                <width>512</width>
+                <size>44382</size>
+            </file>
+            <emojis>
+                <emoji>😎</emoji>
+            </emojis>
+            <description>Smiling Face With Sunglasses</description>
+        </sticker>
+        <sticker name="sweating face">
+            <file id="24">
+                <media-type>image/webp</media-type>
+                <name>sweat.webp</name>
+                <height>512</height>
+                <width>512</width>
+                <size>31506</size>
+            </file>
+            <emojis>
+                <emoji>😅</emoji>
+            </emojis>
+            <description>Grinning Face With Sweat</description>
+        </sticker>
+        <sticker name="tears of joy">
+            <file id="25">
+                <media-type>image/webp</media-type>
+                <name>tearsofjoy.webp</name>
+                <height>512</height>
+                <width>512</width>
+                <size>38620</size>
+            </file>
+            <emojis>
+                <emoji>😂</emoji>
+                <emoji>🤣</emoji>
+            </emojis>
+            <description>Face With Tears of Joy</description>
+        </sticker>
+        <sticker name="thinking face">
+            <file id="26">
+                <media-type>image/webp</media-type>
+                <name>thinking.webp</name>
+                <height>512</height>
+                <width>512</width>
+                <size>32240</size>
+            </file>
+            <emojis>
+                <emoji>🤔</emoji>
+            </emojis>
+            <description>Thinking Face</description>
+        </sticker>
+        <sticker name="Thumbs Up">
+            <file id="27">
+                <media-type>image/webp</media-type>
+                <name>thumbs-up.webp</name>
+                <height>512</height>
+                <width>512</width>
+                <size>28588</size>
+            </file>
+            <emojis>
+                <emoji>👍</emoji>
+            </emojis>
+            <description>Thumbs Up</description>
+        </sticker>
+        <sticker name="unamused">
+            <file id="28">
+                <media-type>image/webp</media-type>
+                <name>unamused.webp</name>
+                <height>512</height>
+                <width>512</width>
+                <size>30932</size>
+            </file>
+            <emojis>
+                <emoji>😒</emoji>
+            </emojis>
+            <description>Unamused Face</description>
+        </sticker>
+        <sticker name="vomiting face">
+            <file id="29">
+                <media-type>image/webp</media-type>
+                <name>vomiting.webp</name>
+                <height>512</height>
+                <width>512</width>
+                <size>37624</size>
+            </file>
+            <emojis>
+                <emoji>🤮</emoji>
+            </emojis>
+            <description>Face With Open Mouth Vomiting</description>
+        </sticker>
+        <sticker name="winking face">
+            <file id="30">
+                <media-type>image/webp</media-type>
+                <name>winking.webp</name>
+                <height>512</height>
+                <width>512</width>
+                <size>28620</size>
+            </file>
+            <emojis>
+                <emoji>😉</emoji>
+            </emojis>
+            <description>Winking Face</description>
+        </sticker>
+        <sticker name="zipper mouth">
+            <file id="31">
+                <media-type>image/webp</media-type>
+                <name>zipper-mouth.webp</name>
+                <height>512</height>
+                <width>512</width>
+                <size>35646</size>
+            </file>
+            <emojis>
+                <emoji>🤐</emoji>
+            </emojis>
+            <description>Zipper Mouth</description>
+        </sticker>
+    </stickers>
+</sticker-pack>
